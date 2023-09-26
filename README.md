@@ -1,5 +1,5 @@
 - 👋 Olá! Sou Marcos Monteiro
-- 👀 Cursando Cloud/DevOps ...
+- 👀 Migrando para Cloud e DevOps ...
 
 
   
